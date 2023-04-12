@@ -1,0 +1,20 @@
+==> 2023-04-11 19:14:45 <==
+# cmd: /opt/anaconda3/bin/conda create -p dspenv python==3.8 -y
+# conda version: 23.1.0
++conda-forge/noarch::pip-23.0.1-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-67.6.1-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.40.0-pyhd8ed1ab_0
++conda-forge/osx-64::ca-certificates-2022.12.7-h033912b_0
++conda-forge/osx-64::libcxx-16.0.1-h71dddab_0
++conda-forge/osx-64::libffi-3.2.1-hb1e8313_1007
++conda-forge/osx-64::libsqlite-3.40.0-ha978bb4_0
++conda-forge/osx-64::libzlib-1.2.13-hfd90126_4
++conda-forge/osx-64::ncurses-6.3-h96cf925_1
++conda-forge/osx-64::openssl-1.1.1t-hfd90126_0
++conda-forge/osx-64::python-3.8.0-hd366da7_5
++conda-forge/osx-64::readline-8.2-h9e318b2_1
++conda-forge/osx-64::sqlite-3.40.0-h9ae0607_0
++conda-forge/osx-64::tk-8.6.12-h5dbffcc_0
++conda-forge/osx-64::xz-5.2.6-h775f41a_0
++conda-forge/osx-64::zlib-1.2.13-hfd90126_4
+# update specs: ['python==3.8']
